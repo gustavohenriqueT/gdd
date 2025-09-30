@@ -2,9 +2,9 @@
 
 ### Equipe
 
-Betânia Amâncio Pereira
-Gustavo Henrique Tomaz da Silva
-Geovana Neuberger Sorg
+#### Betânia Amâncio Pereira,
+#### Gustavo Henrique Tomaz da Silva,
+#### Geovana Neuberger Sorg.
 --------------------------------
 
 ## De Volta pro Futuro
